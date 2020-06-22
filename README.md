@@ -13,3 +13,5 @@ You will see a questionnaire page asking you 5 questions:
 When you click submit button, your entered data will be submitted and recorded in MySQL database.
 
 You can switch to see between form page and record page by clicking a link at the bottom of these pages.
+
+One of the purpose of this program is, for example before attending an event, people will be asked about these 5 questions so the event manager will have overall data about the participants regarding their travel history to China and other countries.
